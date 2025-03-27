@@ -1,0 +1,1001 @@
+Scam_Type,Scam_Description,Medium_Used,Target_Actions,Common_Phrases,Threat_Emotional,Threat_Financial,Threat_Financial/Emotional,Threat_Financial/Personal,Threat_Legal,Threat_Personal,threat_type_encoded,Threat_Type_1,Threat_Type_2,Threat_Type_3,Threat_Type_4,Threat_Type_5
+Lottery Scams,Asks for donations to fake causes or charities.,Dating Apps,Send money or gifts,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Asks for donations to fake causes or charities.,Pop-ups,Send money or gifts,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Donate to fake charity,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Donate to fake charity,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Make payment to avoid legal trouble,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Pay ransom,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Asks for donations to fake causes or charities.,Pop-ups,Pay ransom,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Phone,Make payment to avoid legal trouble,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Donate to fake charity,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Social Media,Provide personal information,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Phone,Pay ransom,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Email,Invest in fake opportunity,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Promotes fake investment opportunities to steal money.,Social Media,Provide personal information,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay ransom,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Make payment to avoid legal trouble,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Pay fine to avoid arrest,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,SMS,Pay fine to avoid arrest,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Send money or gifts,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Pay for fake services,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Social Media,Make payment to avoid legal trouble,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Email,Make payment to avoid legal trouble,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Phone,Make payment to avoid legal trouble,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Send money or gifts,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay fine to avoid arrest,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Promotes fake investment opportunities to steal money.,SMS,Pay ransom,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Invest in fake opportunity,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Phone,Pay ransom,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Tricks victims into providing sensitive information.,SMS,Make payment to avoid legal trouble,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Social Media,Provide personal information,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Social Media,Invest in fake opportunity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,SMS,Provide personal information,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay for fake services,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Invest in fake opportunity,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Asks for donations to fake causes or charities.,Social Media,Pay fine to avoid arrest,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Social Media,Send money or gifts,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Pay fine to avoid arrest,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Donate to fake charity,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,Phone,Make payment to avoid legal trouble,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Invest in fake opportunity,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Invest in fake opportunity,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Tricks victims into providing sensitive information.,Pop-ups,Donate to fake charity,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Send money or gifts,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Social Media,Claim prize by paying fee,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay ransom,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,SMS,Donate to fake charity,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay fine to avoid arrest,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay for fake services,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Phone,Invest in fake opportunity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Make payment to avoid legal trouble,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Tricks victims into providing sensitive information.,SMS,Donate to fake charity,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Tricks victims into providing sensitive information.,Email,Send money or gifts,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Phone,Send money or gifts,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Email,Make payment to avoid legal trouble,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Pay for fake services,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Social Media,Invest in fake opportunity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Dating Apps,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Threatens to release personal data unless ransom is paid.,Email,Donate to fake charity,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Provide personal information,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,SMS,Provide personal information,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay for fake services,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Social Media,Provide personal information,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Phone,Pay fine to avoid arrest,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Phone,Donate to fake charity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Make payment to avoid legal trouble,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,Social Media,Pay for fake services,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Social Media,Pay for fake services,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Invest in fake opportunity,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay fine to avoid arrest,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay fine to avoid arrest,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Pay fine to avoid arrest,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Email,Make payment to avoid legal trouble,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay ransom,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Threatens to release personal data unless ransom is paid.,SMS,Send money or gifts,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Email,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Provide personal information,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay ransom,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay ransom,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Phone,Pay for fake services,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Asks for donations to fake causes or charities.,Phone,Pay ransom,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay ransom,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Exploits online relationships to demand money or gifts.,Social Media,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Social Media,Pay ransom,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Phone,Donate to fake charity,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Tricks victims into providing sensitive information.,Dating Apps,Send money or gifts,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Claim prize by paying fee,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Provide personal information,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Email,Make payment to avoid legal trouble,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,Dating Apps,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,Phone,Pay for fake services,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Donate to fake charity,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Social Media,Pay ransom,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Pay for fake services,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Pop-ups,Claim prize by paying fee,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Pay for fake services,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Promotes fake investment opportunities to steal money.,SMS,Claim prize by paying fee,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Email,Invest in fake opportunity,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Social Media,Provide personal information,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Pop-ups,Donate to fake charity,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Email,Make payment to avoid legal trouble,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,SMS,Donate to fake charity,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,SMS,Claim prize by paying fee,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Social Media,Pay fine to avoid arrest,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Social Media,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Claim prize by paying fee,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Invest in fake opportunity,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Claim prize by paying fee,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Phone,Provide personal information,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Pay for fake services,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Invest in fake opportunity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,Email,Send money or gifts,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay for fake services,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Phone,Send money or gifts,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Exploits online relationships to demand money or gifts.,SMS,Donate to fake charity,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Donate to fake charity,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay ransom,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Exploits online relationships to demand money or gifts.,SMS,Send money or gifts,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Claim prize by paying fee,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Tricks victims into providing sensitive information.,SMS,Make payment to avoid legal trouble,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,SMS,Provide personal information,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Pay ransom,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Send money or gifts,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Donate to fake charity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Make payment to avoid legal trouble,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Invest in fake opportunity,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Promotes fake investment opportunities to steal money.,SMS,Send money or gifts,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Pay for fake services,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Phone,Send money or gifts,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Phone,Donate to fake charity,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Asks for donations to fake causes or charities.,Social Media,Invest in fake opportunity,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay fine to avoid arrest,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Email,Claim prize by paying fee,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Pay ransom,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Send money or gifts,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Social Media,Donate to fake charity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Pay ransom,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Claim prize by paying fee,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Social Media,Claim prize by paying fee,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Pay for fake services,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,SMS,Send money or gifts,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay fine to avoid arrest,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Threatens to release personal data unless ransom is paid.,Social Media,Claim prize by paying fee,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay fine to avoid arrest,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,SMS,Provide personal information,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Donate to fake charity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Promotes fake investment opportunities to steal money.,Phone,Invest in fake opportunity,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,Pop-ups,Make payment to avoid legal trouble,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Invest in fake opportunity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Donate to fake charity,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Social Media,Pay ransom,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Tricks victims into providing sensitive information.,Phone,Claim prize by paying fee,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Social Media,Donate to fake charity,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Send money or gifts,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Pay ransom,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Exploits online relationships to demand money or gifts.,Email,Donate to fake charity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay ransom,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Send money or gifts,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Promotes fake investment opportunities to steal money.,Phone,Provide personal information,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Email,Pay ransom,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Social Media,Make payment to avoid legal trouble,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Email,Claim prize by paying fee,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Invest in fake opportunity,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Make payment to avoid legal trouble,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Claim prize by paying fee,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Asks for donations to fake causes or charities.,SMS,Invest in fake opportunity,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Asks for donations to fake causes or charities.,Phone,Send money or gifts,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Invest in fake opportunity,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Donate to fake charity,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay ransom,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Claim prize by paying fee,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Claim prize by paying fee,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Pay for fake services,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Email,Pay fine to avoid arrest,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Tricks victims into providing sensitive information.,SMS,Pay fine to avoid arrest,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Phone,Make payment to avoid legal trouble,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Send money or gifts,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Make payment to avoid legal trouble,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Pay for fake services,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Asks for donations to fake causes or charities.,Social Media,Invest in fake opportunity,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Email,Provide personal information,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Send money or gifts,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Provide personal information,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Pay fine to avoid arrest,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Pay for fake services,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Provide personal information,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Email,Provide personal information,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Promotes fake investment opportunities to steal money.,Email,Pay ransom,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Phone,Donate to fake charity,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Email,Provide personal information,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Phone,Pay for fake services,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Pop-ups,Invest in fake opportunity,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Make payment to avoid legal trouble,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Send money or gifts,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay ransom,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,SMS,Claim prize by paying fee,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Asks for donations to fake causes or charities.,Email,Claim prize by paying fee,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Promotes fake investment opportunities to steal money.,SMS,Claim prize by paying fee,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Threatens to release personal data unless ransom is paid.,SMS,Make payment to avoid legal trouble,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Email,Pay ransom,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Email,Donate to fake charity,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Email,Make payment to avoid legal trouble,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Asks for donations to fake causes or charities.,Dating Apps,Provide personal information,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Invest in fake opportunity,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,SMS,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Asks for donations to fake causes or charities.,Dating Apps,Provide personal information,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,SMS,Claim prize by paying fee,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Pay fine to avoid arrest,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Claim prize by paying fee,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Phone,Invest in fake opportunity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Social Media,Donate to fake charity,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Send money or gifts,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,SMS,Provide personal information,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Social Media,Invest in fake opportunity,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Email,Pay fine to avoid arrest,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Pay ransom,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Claim prize by paying fee,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Email,Provide personal information,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,Pop-ups,Send money or gifts,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay for fake services,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay fine to avoid arrest,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Tricks victims into providing sensitive information.,Phone,Claim prize by paying fee,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Pretends to be someone else to steal personal or financial information.,Email,Send money or gifts,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,SMS,Claim prize by paying fee,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Pay ransom,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Asks for donations to fake causes or charities.,Pop-ups,Pay fine to avoid arrest,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Phone,Pay ransom,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Invest in fake opportunity,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Social Media,Donate to fake charity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Social Media,Pay fine to avoid arrest,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Email,Provide personal information,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Asks for donations to fake causes or charities.,Email,Pay ransom,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Tricks victims into providing sensitive information.,Pop-ups,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Claim prize by paying fee,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,SMS,Pay fine to avoid arrest,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Email,Make payment to avoid legal trouble,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,SMS,Claim prize by paying fee,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Claim prize by paying fee,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Donate to fake charity,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Promotes fake investment opportunities to steal money.,SMS,Invest in fake opportunity,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Tricks victims into providing sensitive information.,Dating Apps,Provide personal information,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Email,Make payment to avoid legal trouble,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Email,Provide personal information,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Pay fine to avoid arrest,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Send money or gifts,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Pop-ups,Make payment to avoid legal trouble,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Email,Invest in fake opportunity,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Send money or gifts,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Asks for donations to fake causes or charities.,Social Media,Donate to fake charity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Pay fine to avoid arrest,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Donate to fake charity,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Donate to fake charity,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Phone,Invest in fake opportunity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Pay fine to avoid arrest,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Provide personal information,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Email,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay fine to avoid arrest,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Pay ransom,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Social Media,Provide personal information,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay fine to avoid arrest,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Pop-ups,Invest in fake opportunity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Make payment to avoid legal trouble,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Impersonates police or government to claim unpaid fines.,Phone,Invest in fake opportunity,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Claim prize by paying fee,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Tricks victims into providing sensitive information.,Social Media,Pay ransom,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Pay for fake services,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Email,Pay for fake services,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Email,Invest in fake opportunity,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Send money or gifts,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Asks for donations to fake causes or charities.,Phone,Claim prize by paying fee,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Tricks victims into providing sensitive information.,Email,Send money or gifts,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay fine to avoid arrest,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Phone,Pay ransom,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Dating Apps,Pay ransom,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Social Media,Claim prize by paying fee,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay fine to avoid arrest,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Send money or gifts,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Provide personal information,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Email,Provide personal information,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Send money or gifts,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Send money or gifts,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Dating Apps,Provide personal information,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Dating Apps,Send money or gifts,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Social Media,Donate to fake charity,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Make payment to avoid legal trouble,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Tricks victims into providing sensitive information.,Phone,Invest in fake opportunity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Pop-ups,Provide personal information,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay ransom,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Invest in fake opportunity,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Email,Pay for fake services,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Email,Claim prize by paying fee,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Pay for fake services,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Pay ransom,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Asks for donations to fake causes or charities.,SMS,Pay ransom,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Pay for fake services,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,SMS,Make payment to avoid legal trouble,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Phone,Provide personal information,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Send money or gifts,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay ransom,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Tricks victims into providing sensitive information.,Phone,Send money or gifts,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Invest in fake opportunity,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Send money or gifts,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,SMS,Send money or gifts,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Donate to fake charity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Make payment to avoid legal trouble,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Send money or gifts,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Phone,Invest in fake opportunity,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,SMS,Make payment to avoid legal trouble,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Pay for fake services,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Asks for donations to fake causes or charities.,Social Media,Make payment to avoid legal trouble,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,SMS,Send money or gifts,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Send money or gifts,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Social Media,Send money or gifts,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,Email,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay for fake services,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Email,Pay for fake services,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Tricks victims into providing sensitive information.,Dating Apps,Pay for fake services,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Asks for donations to fake causes or charities.,SMS,Send money or gifts,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Social Media,Claim prize by paying fee,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Impersonates police or government to claim unpaid fines.,Social Media,Make payment to avoid legal trouble,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay for fake services,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Make payment to avoid legal trouble,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Email,Donate to fake charity,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Donate to fake charity,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Tricks victims into providing sensitive information.,Social Media,Pay fine to avoid arrest,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,SMS,Donate to fake charity,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Asks for donations to fake causes or charities.,SMS,Provide personal information,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Provide personal information,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Social Media,Claim prize by paying fee,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Tricks victims into providing sensitive information.,Phone,Send money or gifts,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Invest in fake opportunity,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Pay for fake services,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,SMS,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay fine to avoid arrest,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Send money or gifts,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Social Media,Donate to fake charity,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Pay for fake services,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Phone,Provide personal information,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Provide personal information,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,SMS,Send money or gifts,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Social Media,Pay fine to avoid arrest,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Phone,Provide personal information,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Invest in fake opportunity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay for fake services,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Phone,Pay ransom,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Provide personal information,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Social Media,Pay fine to avoid arrest,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Invest in fake opportunity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay fine to avoid arrest,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Impersonates police or government to claim unpaid fines.,Social Media,Provide personal information,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Claim prize by paying fee,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Provide personal information,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay for fake services,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,Email,Donate to fake charity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,SMS,Make payment to avoid legal trouble,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Phone,Donate to fake charity,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Phone,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Provide personal information,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Email,Send money or gifts,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Phone,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Phone,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay fine to avoid arrest,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Phone,Make payment to avoid legal trouble,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Tricks victims into providing sensitive information.,SMS,Send money or gifts,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,SMS,Donate to fake charity,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Pay ransom,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Email,Make payment to avoid legal trouble,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Exploits online relationships to demand money or gifts.,SMS,Invest in fake opportunity,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Donate to fake charity,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Phone,Pay ransom,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Invest in fake opportunity,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Phone,Donate to fake charity,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Social Media,Pay for fake services,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay fine to avoid arrest,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Pay for fake services,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Claim prize by paying fee,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Phone,Make payment to avoid legal trouble,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay ransom,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Pay fine to avoid arrest,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Claim prize by paying fee,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,SMS,Claim prize by paying fee,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,Phone,Claim prize by paying fee,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Threatens to release personal data unless ransom is paid.,SMS,Pay ransom,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Promotes fake investment opportunities to steal money.,Email,Claim prize by paying fee,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Social Media,Provide personal information,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Send money or gifts,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Phone,Pay for fake services,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Make payment to avoid legal trouble,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay ransom,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Invest in fake opportunity,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Provide personal information,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Impersonates police or government to claim unpaid fines.,Phone,Pay for fake services,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Phone,Provide personal information,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Invest in fake opportunity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Make payment to avoid legal trouble,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Send money or gifts,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Tricks victims into providing sensitive information.,SMS,Invest in fake opportunity,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Provide personal information,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay fine to avoid arrest,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,SMS,Send money or gifts,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,SMS,Pay ransom,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Exploits online relationships to demand money or gifts.,Phone,Pay for fake services,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Phone,Pay ransom,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Phone,Provide personal information,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Phone,Pay ransom,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Dating Apps,Send money or gifts,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Phone,Pay ransom,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Invest in fake opportunity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Social Media,Pay for fake services,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Invest in fake opportunity,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Pay fine to avoid arrest,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Pay for fake services,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Phone,Donate to fake charity,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Pop-ups,Send money or gifts,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Phone,Pay for fake services,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Phone,Donate to fake charity,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Send money or gifts,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Invest in fake opportunity,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Provide personal information,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Send money or gifts,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Donate to fake charity,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Claim prize by paying fee,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Email,Send money or gifts,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Social Media,Donate to fake charity,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Email,Pay for fake services,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Dating Apps,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Tricks victims into providing sensitive information.,SMS,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Exploits online relationships to demand money or gifts.,Email,Pay for fake services,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Phone,Send money or gifts,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Tricks victims into providing sensitive information.,Social Media,Claim prize by paying fee,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Provide personal information,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Email,Pay ransom,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Email,Pay ransom,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,SMS,Claim prize by paying fee,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,SMS,Claim prize by paying fee,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Email,Make payment to avoid legal trouble,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Donate to fake charity,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Social Media,Make payment to avoid legal trouble,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Social Media,Invest in fake opportunity,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,SMS,Pay for fake services,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Tricks victims into providing sensitive information.,SMS,Donate to fake charity,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay for fake services,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Exploits online relationships to demand money or gifts.,Email,Provide personal information,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay fine to avoid arrest,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Dating Apps,Donate to fake charity,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Send money or gifts,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Email,Pay ransom,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Send money or gifts,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Email,Pay ransom,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Donate to fake charity,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay ransom,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Email,Make payment to avoid legal trouble,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Provide personal information,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Email,Pay ransom,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay fine to avoid arrest,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Asks for donations to fake causes or charities.,Email,Donate to fake charity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Social Media,Claim prize by paying fee,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Invest in fake opportunity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Pay for fake services,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Claim prize by paying fee,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Invest in fake opportunity,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay for fake services,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Phone,Invest in fake opportunity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Claim prize by paying fee,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Send money or gifts,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Pay ransom,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Asks for donations to fake causes or charities.,Social Media,Provide personal information,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Donate to fake charity,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay ransom,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Donate to fake charity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Make payment to avoid legal trouble,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Phone,Provide personal information,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Impersonates police or government to claim unpaid fines.,SMS,Make payment to avoid legal trouble,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,Social Media,Donate to fake charity,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Send money or gifts,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Provide personal information,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Pay ransom,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Pay fine to avoid arrest,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Invest in fake opportunity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,Phone,Donate to fake charity,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay ransom,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Provide personal information,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Impersonates police or government to claim unpaid fines.,Social Media,Make payment to avoid legal trouble,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Claim prize by paying fee,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Email,Invest in fake opportunity,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Pay ransom,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Email,Donate to fake charity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Provide personal information,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,SMS,Send money or gifts,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,SMS,Pay fine to avoid arrest,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Pay ransom,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Asks for donations to fake causes or charities.,SMS,Claim prize by paying fee,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay for fake services,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,SMS,Provide personal information,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Social Media,Donate to fake charity,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Dating Apps,Send money or gifts,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Tricks victims into providing sensitive information.,Social Media,Provide personal information,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,SMS,Donate to fake charity,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Phone,Send money or gifts,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Email,Send money or gifts,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Social Media,Make payment to avoid legal trouble,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Claim prize by paying fee,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,Social Media,Claim prize by paying fee,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Pay fine to avoid arrest,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Email,Pay ransom,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Asks for donations to fake causes or charities.,Social Media,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Asks for donations to fake causes or charities.,Social Media,Send money or gifts,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Provide personal information,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Phone,Donate to fake charity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Phone,Make payment to avoid legal trouble,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,SMS,Claim prize by paying fee,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,SMS,Invest in fake opportunity,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay for fake services,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Pay for fake services,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,SMS,Donate to fake charity,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Phone,Donate to fake charity,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Provide personal information,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay for fake services,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Invest in fake opportunity,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay for fake services,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Invest in fake opportunity,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay fine to avoid arrest,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay ransom,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Asks for donations to fake causes or charities.,Pop-ups,Pay ransom,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Provide personal information,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Provide personal information,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Donate to fake charity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Phone,Pay fine to avoid arrest,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Email,Send money or gifts,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Send money or gifts,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay for fake services,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Social Media,Pay fine to avoid arrest,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Provide personal information,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Impersonates police or government to claim unpaid fines.,Email,Make payment to avoid legal trouble,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Asks for donations to fake causes or charities.,SMS,Provide personal information,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Email,Pay ransom,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Pay fine to avoid arrest,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,SMS,Make payment to avoid legal trouble,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Invest in fake opportunity,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay ransom,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Pop-ups,Send money or gifts,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Tricks victims into providing sensitive information.,SMS,Donate to fake charity,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Threatens to release personal data unless ransom is paid.,SMS,Pay ransom,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Make payment to avoid legal trouble,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay for fake services,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay ransom,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Tricks victims into providing sensitive information.,Social Media,Pay ransom,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Dating Apps,Pay for fake services,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Asks for donations to fake causes or charities.,Social Media,Pay ransom,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Email,Send money or gifts,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Phone,Send money or gifts,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Donate to fake charity,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Send money or gifts,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Phone,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Donate to fake charity,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Asks for donations to fake causes or charities.,Pop-ups,Provide personal information,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Donate to fake charity,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,SMS,Send money or gifts,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Pop-ups,Donate to fake charity,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Send money or gifts,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,Email,Pay for fake services,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,Dating Apps,Pay fine to avoid arrest,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Social Media,Make payment to avoid legal trouble,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Social Media,Invest in fake opportunity,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Tricks victims into providing sensitive information.,Social Media,Claim prize by paying fee,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Provide personal information,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Donate to fake charity,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay fine to avoid arrest,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Email,Pay for fake services,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Asks for donations to fake causes or charities.,Dating Apps,Pay for fake services,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Claim prize by paying fee,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Pay fine to avoid arrest,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay ransom,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Pay ransom,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Social Media,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,Phone,Pay for fake services,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay for fake services,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Make payment to avoid legal trouble,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Provide personal information,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,Phone,Pay fine to avoid arrest,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Phone,Pay for fake services,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Email,Send money or gifts,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,SMS,Provide personal information,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Phone,Claim prize by paying fee,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Dating Apps,Pay fine to avoid arrest,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Send money or gifts,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay fine to avoid arrest,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Provide personal information,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Donate to fake charity,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Asks for donations to fake causes or charities.,Pop-ups,Make payment to avoid legal trouble,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Claim prize by paying fee,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Claim prize by paying fee,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Claims the victim's device is infected with malware and demands payment.,Email,Make payment to avoid legal trouble,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Phone,Send money or gifts,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Send money or gifts,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Provide personal information,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Make payment to avoid legal trouble,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Email,Claim prize by paying fee,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Asks for donations to fake causes or charities.,SMS,Pay for fake services,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay for fake services,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Provide personal information,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,SMS,Donate to fake charity,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Dating Apps,Pay fine to avoid arrest,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Send money or gifts,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Tricks victims into providing sensitive information.,Phone,Pay fine to avoid arrest,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,SMS,Make payment to avoid legal trouble,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Tricks victims into providing sensitive information.,Pop-ups,Make payment to avoid legal trouble,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Provide personal information,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Donate to fake charity,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Make payment to avoid legal trouble,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay fine to avoid arrest,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Social Media,Provide personal information,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Phone,Make payment to avoid legal trouble,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Pay fine to avoid arrest,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,Social Media,Pay ransom,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Email,Invest in fake opportunity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,SMS,Pay fine to avoid arrest,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Social Media,Provide personal information,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Promotes fake investment opportunities to steal money.,Phone,Pay for fake services,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Phone,Pay fine to avoid arrest,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,Pop-ups,Provide personal information,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Invest in fake opportunity,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Provide personal information,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Social Media,Pay for fake services,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Asks for donations to fake causes or charities.,Pop-ups,Pay fine to avoid arrest,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Promotes fake investment opportunities to steal money.,Email,Provide personal information,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Donate to fake charity,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Invest in fake opportunity,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Social Media,Make payment to avoid legal trouble,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,SMS,Claim prize by paying fee,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Asks for donations to fake causes or charities.,Social Media,Pay for fake services,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay ransom,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Email,Send money or gifts,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Tricks victims into providing sensitive information.,Pop-ups,Claim prize by paying fee,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Tricks victims into providing sensitive information.,Email,Donate to fake charity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Threatens to release personal data unless ransom is paid.,SMS,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Email,Pay fine to avoid arrest,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Dating Apps,Pay fine to avoid arrest,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Social Media,Provide personal information,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Tricks victims into providing sensitive information.,Dating Apps,Claim prize by paying fee,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Email,Make payment to avoid legal trouble,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Email,Claim prize by paying fee,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Asks for donations to fake causes or charities.,Email,Provide personal information,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Send money or gifts,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay ransom,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Promotes fake investment opportunities to steal money.,Phone,Donate to fake charity,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Donate to fake charity,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Donate to fake charity,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Asks for donations to fake causes or charities.,Email,Claim prize by paying fee,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Pay for fake services,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Promotes fake investment opportunities to steal money.,SMS,Provide personal information,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Pay for fake services,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Pay ransom,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Phone,Donate to fake charity,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Pay for fake services,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Social Media,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,SMS,Claim prize by paying fee,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Pay fine to avoid arrest,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Asks for donations to fake causes or charities.,Pop-ups,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Email,Donate to fake charity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Phone,Send money or gifts,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Send money or gifts,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Tricks victims into providing sensitive information.,SMS,Provide personal information,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Donate to fake charity,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Provide personal information,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Phone,Pay ransom,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Phone,Invest in fake opportunity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Tricks victims into providing sensitive information.,Email,Make payment to avoid legal trouble,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Provide personal information,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Threatens to release personal data unless ransom is paid.,Social Media,Send money or gifts,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Claim prize by paying fee,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Threatens to release personal data unless ransom is paid.,Phone,Make payment to avoid legal trouble,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,Phone,Make payment to avoid legal trouble,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Tricks victims into providing sensitive information.,Email,Invest in fake opportunity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Tricks victims into providing sensitive information.,SMS,Invest in fake opportunity,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Impersonates police or government to claim unpaid fines.,SMS,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,Email,Send money or gifts,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay for fake services,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,SMS,Provide personal information,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,SMS,Invest in fake opportunity,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Send money or gifts,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Phone,Send money or gifts,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Tricks victims into providing sensitive information.,Email,Send money or gifts,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,SMS,Pay ransom,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Claims the victim's device is infected with malware and demands payment.,Email,Send money or gifts,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Pay fine to avoid arrest,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Pay for fake services,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Tricks victims into providing sensitive information.,Dating Apps,Invest in fake opportunity,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Pay ransom,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Phone,Pay for fake services,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Email,Provide personal information,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,SMS,Invest in fake opportunity,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Asks for donations to fake causes or charities.,Social Media,Pay ransom,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Pay ransom,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay fine to avoid arrest,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Email,Make payment to avoid legal trouble,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Email,Donate to fake charity,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Provide personal information,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay for fake services,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Phone,Donate to fake charity,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Asks for donations to fake causes or charities.,Social Media,Invest in fake opportunity,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Phone,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Send money or gifts,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Tricks victims into providing sensitive information.,SMS,Claim prize by paying fee,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Social Media,Pay for fake services,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Make payment to avoid legal trouble,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Provide personal information,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Phone,Make payment to avoid legal trouble,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Promotes fake investment opportunities to steal money.,SMS,Claim prize by paying fee,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Make payment to avoid legal trouble,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,SMS,Make payment to avoid legal trouble,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Claim prize by paying fee,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Make payment to avoid legal trouble,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Send money or gifts,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Provide personal information,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Provide personal information,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay ransom,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,SMS,Provide personal information,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Email,Donate to fake charity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,SMS,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Asks for donations to fake causes or charities.,Email,Pay fine to avoid arrest,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Provide personal information,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Make payment to avoid legal trouble,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Send money or gifts,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Claim prize by paying fee,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Promotes fake investment opportunities to steal money.,Phone,Provide personal information,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,Social Media,Donate to fake charity,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Pay ransom,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Provide personal information,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Tricks victims into providing sensitive information.,Dating Apps,Pay for fake services,device infected call us fix,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Tricks victims into providing sensitive information.,Email,Pay ransom,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Email,Pay for fake services,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Invest in fake opportunity,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,Email,Pay fine to avoid arrest,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,SMS,Claim prize by paying fee,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Asks for donations to fake causes or charities.,Dating Apps,Claim prize by paying fee,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Tricks victims into providing sensitive information.,Pop-ups,Provide personal information,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Tricks victims into providing sensitive information.,Social Media,Pay for fake services,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Pay fine to avoid arrest,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Dating Apps,Provide personal information,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Provide personal information,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Impersonates police or government to claim unpaid fines.,Phone,Pay for fake services,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Pop-ups,Provide personal information,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Claim prize by paying fee,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Pay fine to avoid arrest,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Provide personal information,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay fine to avoid arrest,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Exploits online relationships to demand money or gifts.,Email,Donate to fake charity,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Make payment to avoid legal trouble,device infected call us fix,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Claim prize by paying fee,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Claim prize by paying fee,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Asks for donations to fake causes or charities.,Phone,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay ransom,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Make payment to avoid legal trouble,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Invest in fake opportunity,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay fine to avoid arrest,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,SMS,Invest in fake opportunity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Tricks victims into providing sensitive information.,Email,Claim prize by paying fee,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Threatens to release personal data unless ransom is paid.,SMS,Make payment to avoid legal trouble,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Pay ransom,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay for fake services,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Tricks victims into providing sensitive information.,SMS,Send money or gifts,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,SMS,Make payment to avoid legal trouble,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Invest in fake opportunity,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Social Media,Claim prize by paying fee,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Claim prize by paying fee,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay ransom,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Promotes fake investment opportunities to steal money.,SMS,Invest in fake opportunity,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,SMS,Pay ransom,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Donate to fake charity,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Pay for fake services,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,Email,Claim prize by paying fee,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Tricks victims into providing sensitive information.,Pop-ups,Make payment to avoid legal trouble,confirm account details avoid suspension,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Make payment to avoid legal trouble,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Fake Law Enforcement Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Pay for fake services,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Exploits online relationships to demand money or gifts.,Phone,Invest in fake opportunity,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Tricks victims into providing sensitive information.,Email,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Make payment to avoid legal trouble,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Asks for donations to fake causes or charities.,Social Media,Pay fine to avoid arrest,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Pay ransom,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Falsely claims unpaid debt and demands immediate payment.,SMS,Invest in fake opportunity,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Tricks victims into providing sensitive information.,Email,Provide personal information,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Dating Apps,Invest in fake opportunity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay for fake services,confirm account details avoid suspension,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Asks for donations to fake causes or charities.,Email,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Tricks victims into providing sensitive information.,SMS,Pay fine to avoid arrest,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Social Media,Provide personal information,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Pop-ups,Pay for fake services,irs pay avoid legal action,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,SMS,Donate to fake charity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Threatens to release personal data unless ransom is paid.,SMS,Pay fine to avoid arrest,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Impersonates police or government to claim unpaid fines.,SMS,Provide personal information,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Exploits online relationships to demand money or gifts.,Phone,Pay fine to avoid arrest,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Phone,Send money or gifts,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Email,Send money or gifts,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Make payment to avoid legal trouble,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,SMS,Send money or gifts,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Provide personal information,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Provide personal information,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Promotes fake investment opportunities to steal money.,SMS,Invest in fake opportunity,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Phone,Make payment to avoid legal trouble,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,SMS,Send money or gifts,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay ransom,youve claim prize paying fee,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Asks for donations to fake causes or charities.,Pop-ups,Make payment to avoid legal trouble,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Send money or gifts,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Pay ransom,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Donate to fake charity,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Pay fine to avoid arrest,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Email,Invest in fake opportunity,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay ransom,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Invest in fake opportunity,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Send money or gifts,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Email,Send money or gifts,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Social Media,Pay for fake services,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Social Media,Pay ransom,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Tricks victims into providing sensitive information.,Dating Apps,Claim prize by paying fee,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Email,Provide personal information,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Send money or gifts,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Pay fine to avoid arrest,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Promotes fake investment opportunities to steal money.,Email,Claim prize by paying fee,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Send money or gifts,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Send money or gifts,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Pay for fake services,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,Phone,Claim prize by paying fee,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Invest in fake opportunity,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Invest in fake opportunity,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,Pop-ups,Pay ransom,owe 500 pay immediately,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Exploits online relationships to demand money or gifts.,Phone,Make payment to avoid legal trouble,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Phone,Make payment to avoid legal trouble,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Pay fine to avoid arrest,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Donate to fake charity,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Donate to fake charity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Invest in fake opportunity,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,SMS,Pay ransom,help im trouble,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Send money or gifts,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Email,Invest in fake opportunity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Pop-ups,Invest in fake opportunity,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Phone,Pay for fake services,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,Phone,Claim prize by paying fee,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay for fake services,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Tricks victims into providing sensitive information.,Pop-ups,Pay for fake services,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Dating Apps,Provide personal information,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Asks for donations to fake causes or charities.,SMS,Pay ransom,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Claims the victim's device is infected with malware and demands payment.,Email,Claim prize by paying fee,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Asks for donations to fake causes or charities.,Phone,Pay ransom,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Claim prize by paying fee,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Impersonates police or government to claim unpaid fines.,SMS,Invest in fake opportunity,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Send money or gifts,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Claim prize by paying fee,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Invest in fake opportunity,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Impersonates police or government to claim unpaid fines.,SMS,Claim prize by paying fee,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Pay ransom,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Exploits online relationships to demand money or gifts.,Social Media,Provide personal information,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Invest in fake opportunity,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Phone,Pay ransom,confirm account details avoid suspension,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Send money or gifts,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Pop-ups,Donate to fake charity,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Promotes fake investment opportunities to steal money.,SMS,Make payment to avoid legal trouble,irs pay avoid legal action,0,0,0,0,1,0,4,0,0,0,1,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,SMS,Send money or gifts,confirm account details avoid suspension,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Asks for donations to fake causes or charities.,Email,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Pay ransom,device infected call us fix,0,0,0,0,1,0,4,0,0,0,1,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Make payment to avoid legal trouble,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,Phone,Claim prize by paying fee,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Charity Scams,Exploits online relationships to demand money or gifts.,Phone,Pay ransom,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Pay ransom,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Provide personal information,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Exploits online relationships to demand money or gifts.,Dating Apps,Claim prize by paying fee,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Claim prize by paying fee,owe 500 pay immediately,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,Dating Apps,Make payment to avoid legal trouble,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Email,Provide personal information,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Dating Apps,Make payment to avoid legal trouble,invest double money,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Asks for donations to fake causes or charities.,Pop-ups,Donate to fake charity,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Send money or gifts,need money emergency,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay ransom,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,Social Media,Pay fine to avoid arrest,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Impersonates police or government to claim unpaid fines.,SMS,Pay fine to avoid arrest,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Phone,Invest in fake opportunity,charity drive donate,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Exploits online relationships to demand money or gifts.,Phone,Provide personal information,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Threatens to release personal data unless ransom is paid.,Pop-ups,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Invest in fake opportunity,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Donate to fake charity,youve claim prize paying fee,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay ransom,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Invest in fake opportunity,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Pay for fake services,irs pay avoid legal action,1,0,0,0,0,0,0,0,0,0,0,0
+Impersonation Scams,Promotes fake investment opportunities to steal money.,SMS,Invest in fake opportunity,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Promotes fake investment opportunities to steal money.,Phone,Claim prize by paying fee,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Provide personal information,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Falsely claims unpaid debt and demands immediate payment.,Social Media,Donate to fake charity,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Charity Scams,Threatens to release personal data unless ransom is paid.,Phone,Claim prize by paying fee,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Pay for fake services,confirm account details avoid suspension,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Pay fine to avoid arrest,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Promotes fake investment opportunities to steal money.,Email,Pay fine to avoid arrest,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Threatens to release personal data unless ransom is paid.,Dating Apps,Provide personal information,device infected call us fix,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Pretends to be someone else to steal personal or financial information.,Email,Pay ransom,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Investment Scams,Tricks victims into providing sensitive information.,SMS,Pay for fake services,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Asks for donations to fake causes or charities.,Email,Make payment to avoid legal trouble,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Phone,Provide personal information,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Donate to fake charity,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Threatens to release personal data unless ransom is paid.,Phone,Send money or gifts,need money emergency,0,0,0,1,0,0,3,0,0,1,0,0
+Lottery Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Send money or gifts,charity drive donate,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Threatens to release personal data unless ransom is paid.,Social Media,Invest in fake opportunity,device infected call us fix,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Pay fine to avoid arrest,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Email,Pay fine to avoid arrest,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Tricks victims into providing sensitive information.,Social Media,Provide personal information,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Asks for donations to fake causes or charities.,Social Media,Invest in fake opportunity,help im trouble,1,0,0,0,0,0,0,0,0,0,0,0
+Lottery Scams,Exploits online relationships to demand money or gifts.,Email,Invest in fake opportunity,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Claim prize by paying fee,account compromised act,0,0,0,1,0,0,3,0,0,1,0,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,Social Media,Make payment to avoid legal trouble,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Phone,Make payment to avoid legal trouble,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Pay fine to avoid arrest,irs pay avoid legal action,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Asks for donations to fake causes or charities.,Pop-ups,Provide personal information,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Make payment to avoid legal trouble,youve claim prize paying fee,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Asks for donations to fake causes or charities.,Social Media,Pay ransom,need money emergency,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Dating Apps,Send money or gifts,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Investment Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Claim prize by paying fee,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay ransom,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Email,Provide personal information,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Tricks victims into providing sensitive information.,Dating Apps,Pay fine to avoid arrest,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
+Tech Support Scams,Claims the victim's device is infected with malware and demands payment.,SMS,Donate to fake charity,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Romance Scams,Asks for donations to fake causes or charities.,Phone,Claim prize by paying fee,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Provide personal information,need money emergency,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Promotes fake investment opportunities to steal money.,Pop-ups,Pay for fake services,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Tricks victims into providing sensitive information.,Pop-ups,Provide personal information,account compromised act,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Asks for donations to fake causes or charities.,Pop-ups,Pay fine to avoid arrest,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Email,Invest in fake opportunity,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Pop-ups,Pay fine to avoid arrest,irs pay avoid legal action,0,1,0,0,0,0,1,1,0,0,0,0
+Debt Collection Scams,Asks for donations to fake causes or charities.,SMS,Pay ransom,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Phone,Provide personal information,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Tricks victims into providing sensitive information.,Phone,Invest in fake opportunity,account compromised act,1,0,0,0,0,0,0,0,0,0,0,0
+Charity Scams,Falsely claims unpaid debt and demands immediate payment.,Email,Pay ransom,account compromised act,0,0,0,0,0,1,5,0,0,0,0,1
+Fake Law Enforcement Scams,Impersonates police or government to claim unpaid fines.,Pop-ups,Pay fine to avoid arrest,need money emergency,0,0,0,0,0,1,5,0,0,0,0,1
+Extortion Scams,Claims the victim's device is infected with malware and demands payment.,Social Media,Pay fine to avoid arrest,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Tech Support Scams,Promotes fake investment opportunities to steal money.,Phone,Claim prize by paying fee,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Investment Scams,Claims the victim has won a prize and asks for payment to claim it.,Social Media,Pay ransom,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Investment Scams,Impersonates police or government to claim unpaid fines.,Email,Send money or gifts,account compromised act,0,1,0,0,0,0,1,1,0,0,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Dating Apps,Send money or gifts,help im trouble,0,0,0,1,0,0,3,0,0,1,0,0
+Charity Scams,Threatens to release personal data unless ransom is paid.,Phone,Claim prize by paying fee,help im trouble,0,0,0,0,1,0,4,0,0,0,1,0
+Tech Support Scams,Claims the victim has won a prize and asks for payment to claim it.,Phone,Make payment to avoid legal trouble,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Extortion Scams,Pretends to be someone else to steal personal or financial information.,Phone,Pay ransom,account compromised act,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,Phone,Pay for fake services,owe 500 pay immediately,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Promotes fake investment opportunities to steal money.,Social Media,Donate to fake charity,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Phishing Scams,Tricks victims into providing sensitive information.,SMS,Claim prize by paying fee,irs pay avoid legal action,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,SMS,Make payment to avoid legal trouble,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Impersonation Scams,Impersonates police or government to claim unpaid fines.,Dating Apps,Provide personal information,youve claim prize paying fee,1,0,0,0,0,0,0,0,0,0,0,0
+Extortion Scams,Impersonates police or government to claim unpaid fines.,SMS,Pay ransom,invest double money,0,0,0,1,0,0,3,0,0,1,0,0
+Phishing Scams,Promotes fake investment opportunities to steal money.,Email,Claim prize by paying fee,need money emergency,0,0,1,0,0,0,2,0,1,0,0,0
+Debt Collection Scams,Exploits online relationships to demand money or gifts.,SMS,Pay ransom,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Make payment to avoid legal trouble,device infected call us fix,0,0,1,0,0,0,2,0,1,0,0,0
+Impersonation Scams,Claims the victim has won a prize and asks for payment to claim it.,Pop-ups,Pay ransom,charity drive donate,0,0,0,0,1,0,4,0,0,0,1,0
+Impersonation Scams,Pretends to be someone else to steal personal or financial information.,Social Media,Invest in fake opportunity,invest double money,1,0,0,0,0,0,0,0,0,0,0,0
+Phishing Scams,Claims the victim's device is infected with malware and demands payment.,Email,Make payment to avoid legal trouble,charity drive donate,0,1,0,0,0,0,1,1,0,0,0,0
+Charity Scams,Asks for donations to fake causes or charities.,Social Media,Provide personal information,owe 500 pay immediately,0,0,0,0,1,0,4,0,0,0,1,0
+Lottery Scams,Pretends to be someone else to steal personal or financial information.,Phone,Claim prize by paying fee,invest double money,0,0,1,0,0,0,2,0,1,0,0,0
+Investment Scams,Pretends to be someone else to steal personal or financial information.,Email,Donate to fake charity,help im trouble,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Claims the victim has won a prize and asks for payment to claim it.,Dating Apps,Send money or gifts,confirm account details avoid suspension,0,0,0,0,1,0,4,0,0,0,1,0
+Phishing Scams,Tricks victims into providing sensitive information.,Phone,Make payment to avoid legal trouble,charity drive donate,0,0,0,1,0,0,3,0,0,1,0,0
+Romance Scams,Threatens to release personal data unless ransom is paid.,Phone,Provide personal information,youve claim prize paying fee,0,0,0,0,0,1,5,0,0,0,0,1
+Lottery Scams,Asks for donations to fake causes or charities.,Dating Apps,Pay ransom,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Fake Law Enforcement Scams,Exploits online relationships to demand money or gifts.,Pop-ups,Pay for fake services,help im trouble,0,0,0,0,0,1,5,0,0,0,0,1
+Phishing Scams,Impersonates police or government to claim unpaid fines.,Phone,Claim prize by paying fee,owe 500 pay immediately,0,0,1,0,0,0,2,0,1,0,0,0
+Lottery Scams,Asks for donations to fake causes or charities.,Social Media,Claim prize by paying fee,charity drive donate,0,0,0,0,0,1,5,0,0,0,0,1
+Impersonation Scams,Asks for donations to fake causes or charities.,Email,Claim prize by paying fee,invest double money,0,0,0,0,0,1,5,0,0,0,0,1
+Debt Collection Scams,Claims the victim has won a prize and asks for payment to claim it.,SMS,Provide personal information,youve claim prize paying fee,0,0,0,1,0,0,3,0,0,1,0,0
+Extortion Scams,Promotes fake investment opportunities to steal money.,Email,Pay for fake services,invest double money,0,1,0,0,0,0,1,1,0,0,0,0
