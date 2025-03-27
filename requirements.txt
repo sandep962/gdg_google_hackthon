@@ -13,3 +13,8 @@ librosa
 nltk
 spacy
 openai-whisper
+flask flask-ngrok openai-whisper
+flask flask-ngrok werkzeug whisper openai-whisper
+pyngrok
+flask flask-cors py
+flask_cors
