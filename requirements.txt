@@ -12,3 +12,4 @@ soundfile
 librosa
 nltk
 spacy
+openai-whisper
